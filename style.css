@@ -3,7 +3,7 @@ body {
     background-color: antiquewhite;
 }
 
-header h1 `{
+header h1 {
     font-size: 4rem;
     text-align: center;
     color: black
@@ -25,4 +25,13 @@ h2 {
 header h2 {
     text-align: center;  
     color: black;
+}
+
+footer {
+    margin: 35px;
+    text-align: center;
+}
+footer a {
+    color: navy;
+    font-size: 1.5rem;
 }
