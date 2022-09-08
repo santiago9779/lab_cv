@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+header h1 `{
+    font-size: 4rem;
+    text-align: center;
+    color: black
+}
+
+.container {
+    width: 400px;
+    margin: 0 auto;
+}
+
+.titulo2 {
+    text-align: center;
+}
+
+h2 {
+    color:navy ;
+}
+
+header h2 {
+    text-align: center;  
+    color: black;
+}
