@@ -1,21 +1,30 @@
 body {
     margin: 0;
-    background-color: antiquewhite;
+    padding: 0;
+    background: url(img/fondo_de_pagina.jpg);
+    background-size: 100%;
+}
+
+header {
+    margin: 0 auto;
+    padding: 0 auto;
 }
 
 header h1 {
     font-size: 4rem;
     text-align: center;
-    color: black
+    color: burlywood
 }
 
 .container {
     width: 400px;
     margin: 0 auto;
+    padding: 0 auto;
 }
 
 .titulo2 {
     text-align: center;
+    background-color: lightgoldenrodyellow;
 }
 
 h2 {
@@ -24,7 +33,7 @@ h2 {
 
 header h2 {
     text-align: center;  
-    color: black;
+    color: burlywood;
 }
 
 footer {
