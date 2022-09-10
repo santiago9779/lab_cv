@@ -42,20 +42,16 @@ footer {
     padding: 1.2%;
     color: azure;
 }
-footer a {
-    color: blue;
-    font-size: 1.5rem;
-    float: right;
-}
 
-/*footer p {
-    margin: 0 auto;
-    padding: 0 auto;
-    text-align: left;
-}
-*/
 footer section {
     margin: 0;
-    padding: 0;
-    text-align: center;
+    text-align: left;
+}
+
+footer a {
+    margin: 0;
+    padding: 1.2%;
+    color: blue;
+    float: right;
+    font-size: 2rem;
 }
