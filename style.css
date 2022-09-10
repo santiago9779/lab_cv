@@ -37,7 +37,9 @@ header h2 {
 }
 
 footer {
-    margin: 35px;
+    background-color: burlywood;
+    margin: 0 auto;
+    padding: 1.1%;
     text-align: center;
 }
 footer a {
